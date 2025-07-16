@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Tokyo Emergency Services",
   description: "Emergency disaster relief services and recovery centers in Tokyo",
-    generator: ''
+    generator: 'developer'
 }
 
 export default function RootLayout({
